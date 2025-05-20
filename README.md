@@ -11,8 +11,8 @@ Welcome to the **Keras NLP Pattern Series**, where we explore foundational to ad
 
 * ✅ Uses Keras Hub to load a sentiment classifier.
 * 🔍 Demonstrates tokenization and decoding pipelines.
-* 📹 Video Walkthrough: [Open Video](#)
-* 🔗 **Colab Link**: [Open in Colab](https://colab.research.google.com/github/keras-team/keras-io/blob/master/guides/ipynb/keras_hub/getting_started.ipynb)
+* 📹 Video Walkthrough: [Open Video](https://youtu.be/B2Ehy8o4qgI)
+* 🔗 **Colab Link**: [Open in Colab](https://colab.research.google.com/drive/1r1vq96cVpz73cZQBCBK_oy1D91l3N4DB?usp=sharing)
 
 ---
 
@@ -23,8 +23,8 @@ Welcome to the **Keras NLP Pattern Series**, where we explore foundational to ad
 
 * ✅ Shows how to load and customize a Hugging Face/Keras model.
 * 📊 Tracks accuracy, loss, and fine-tuning behavior.
-* 📹 Video Walkthrough: [Open Video](#)
-* 🔗 **Colab Link**: [Open in Colab](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models/blob/main/chapter11/Chapter%2011%20-%20Fine-Tuning%20BERT.ipynb)
+* 📹 Video Walkthrough: [Open Video](https://youtu.be/B2Ehy8o4qgI)
+* 🔗 **Colab Link**: [Open in Colab](https://colab.research.google.com/drive/1XRC1vz7UFWEzUPM120YTCK_HVLBL_dhX?usp=sharing)
 
 ---
 
@@ -35,8 +35,8 @@ Welcome to the **Keras NLP Pattern Series**, where we explore foundational to ad
 
 * ✅ Implements positional encoding, attention layers, and transformer blocks.
 * 📚 Trains on IMDB or a custom dataset using tokenization + embedding.
-* 📹 Video Walkthrough: [Open Video](#)
-* 🔗 **Colab Link**: [Open in Colab](https://keras.io/examples/nlp/text_classification_with_transformer)
+* 📹 Video Walkthrough: [Open Video](https://youtu.be/B2Ehy8o4qgI)
+* 🔗 **Colab Link**: [Open in Colab](https://colab.research.google.com/drive/1BAmsL7iMMRwU1edG-S_zwKsOcZcXfLru?usp=sharing)
 
 ---
 
